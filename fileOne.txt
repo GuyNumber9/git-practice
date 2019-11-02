@@ -1,1 +1,2 @@
 The contents of file one.
+New line.
